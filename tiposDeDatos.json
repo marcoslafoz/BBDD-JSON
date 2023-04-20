@@ -1,0 +1,13 @@
+{
+    "string" : "cadena de texto",
+    "integer" : 23,
+    "boolean" : true,
+    "array":[
+        {
+            "tipo" : "objeto dentro de array"
+        },
+        {
+            "tipo" : "objeto dentro de array"
+        }
+    ]
+}
