@@ -1,0 +1,19 @@
+[
+    {
+        "objeto1": {
+            "nombre": "marcos",
+            "edad": 19,
+            "ocupacion": "estudiante"
+        },
+        "objeto2": {
+            "nombre": "antonio",
+            "edad": 20,
+            "ocupacion": "piloto"
+        },
+        "objeto3": {
+            "nombre": "paco",
+            "edad": 21,
+            "ocupacion": "agricultor"
+        }
+    }
+]

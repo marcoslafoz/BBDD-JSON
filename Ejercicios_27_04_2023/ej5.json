@@ -1,0 +1,52 @@
+[
+    {
+        "objeto1": {
+            "nombre": "marcos",
+            "puntos": 33,
+            "detallePuntos": {
+                "positivos": [
+                    1,
+                    2,
+                    3
+                ],
+                "negativos": [
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        "objeto2": {
+            "nombre": "marcos",
+            "puntos": 33,
+            "detallePuntos": {
+                "positivos": [
+                    1,
+                    2,
+                    3
+                ],
+                "negativos": [
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        "objeto3": {
+            "nombre": "marcos",
+            "puntos": 33,
+            "detallePuntos": {
+                "positivos": [
+                    1,
+                    2,
+                    3
+                ],
+                "negativos": [
+                    4,
+                    5,
+                    6
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "colores": [
+        "negro",
+        "azul",
+        "verde"
+    ],
+    "numeros": [
+        1,
+        2,
+        3
+    ],
+    "animales": [
+        "perro",
+        "gato",
+        "tigre"
+    ]
+}

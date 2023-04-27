@@ -1,0 +1,18 @@
+{
+    "objeto": {
+        "usuario": {
+            "nombre": "marcos",
+            "apellido": "lafoz",
+            "edad": 19
+        },
+        "direccion": {
+            "calle": "Pablo Serrano",
+            "numero": "4",
+            "codigoPostal": "50000"
+        },
+        "contacto": {
+            "telefono": "893647836",
+            "email": "marcos@mail.com"
+        }
+    }
+}

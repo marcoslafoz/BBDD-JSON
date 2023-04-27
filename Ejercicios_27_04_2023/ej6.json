@@ -1,0 +1,46 @@
+{
+    "objeto": {
+        "tienda": {
+            "nombre": "tienda1",
+            "direccion": {
+                "calle": "Pablo Serrano",
+                "numero": "4",
+                "codigoPostal": "73974"
+            },
+            "horario": {
+                "apertura": "08:00",
+                "cierre": "20:00"
+            }
+        },
+        "productos": [
+            {
+                "producto1": {
+                    "nombre": "azucar",
+                    "precio": 1.2,
+                    "categoria": "alimentos"
+                },
+                "producto2": {
+                    "nombre": "harina",
+                    "precio": 0.8,
+                    "categoria": "alimentos"
+                }
+            }
+        ],
+        "empleados": [
+            {
+                "empleado1": {
+                    "nombre": "marcos",
+                    "apellido": "lafoz",
+                    "edad": 19,
+                    "puesto": "encargado"
+                },
+                "empleado2": {
+                    "nombre": "pepe",
+                    "apellido": "lopez",
+                    "edad": 21,
+                    "puesto": "reponedor"
+                }
+            }
+        ]
+    }
+}
