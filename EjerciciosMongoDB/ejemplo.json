@@ -1,0 +1,60 @@
+[
+    {
+        "tipo": "alumno",
+        "nombre": "Marcos",
+        "apellidos": "Lafoz",
+        "horario": [
+            {
+                "dia": "lunes",
+                "horario": [
+                    "PROG",
+                    "PROG",
+                    "PROG",
+                    "PROG",
+                    "BBDD",
+                    "BBDD"
+                ]
+            },
+            {
+                "dia": "martes",
+                "horario": [
+                    "FOL",
+                    "BBDD",
+                    "BBDD",
+                    "ED",
+                    "PRO",
+                    "PRO"
+                ]
+            }
+        ]
+    },
+    {
+        "tipo": "profesor",
+        "nombre": "Dario",
+        "apellidos": "Ureña",
+        "horario": [
+            {
+                "dia": "lunes",
+                "horario": [
+                    "PROG",
+                    "PROG",
+                    "FOL",
+                    "FOL",
+                    "BBDD",
+                    "BBDD"
+                ]
+            },
+            {
+                "dia": "martes",
+                "horario": [
+                    "PROG",
+                    "PROG",
+                    "BBDD",
+                    "ED",
+                    "ED",
+                    "ED"
+                ]
+            }
+        ]
+    }
+]
