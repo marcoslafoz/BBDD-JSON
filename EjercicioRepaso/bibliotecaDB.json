@@ -1,0 +1,131 @@
+[
+    {
+        "titulo": "La Sombra del Viento",
+        "autor": "Carlos Ruiz Zafón",
+        "genero": "Ficción",
+        "anyoPublicacion": 2001,
+        "estado": 4,
+        "clasificacion": {
+            "tematica": [
+                "Misterio",
+                "Drama"
+            ],
+            "publico": [
+                "Adultos",
+                "Jóvenes"
+            ]
+        }
+    },
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "genero": "Ficción",
+        "anyoPublicacion": 1967,
+        "estado": 2,
+        "clasificacion": {
+            "tematica": [
+                "Realismo mágico"
+            ],
+            "publico": [
+                "Adultos"
+            ]
+        }
+    },
+    {
+        "titulo": "El Código Da Vinci",
+        "autor": "Dan Brown",
+        "genero": "Ficción",
+        "anyoPublicacion": 2003,
+        "estado": 3,
+        "clasificacion": {
+            "tematica": [
+                "Misterio",
+                "Suspenso"
+            ],
+            "publico": [
+                "Adultos",
+                "Jóvenes"
+            ]
+        }
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Ficción",
+        "anyoPublicacion": 1949,
+        "estado": 5,
+        "clasificacion": {
+            "tematica": [
+                "Distopía",
+                "Política"
+            ],
+            "publico": [
+                "Adultos"
+            ]
+        }
+    },
+    {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "genero": "Ficción",
+        "anyoPublicacion": 1988,
+        "estado": 1,
+        "clasificacion": {
+            "tematica": [
+                "Espiritualidad"
+            ],
+            "publico": [
+                "Adultos",
+                "Jóvenes"
+            ]
+        }
+    },
+    {
+        "titulo": "A Brief History of Time",
+        "autor": "Stephen Hawking",
+        "genero": "No ficción",
+        "anyoPublicacion": 1988,
+        "estado": 2,
+        "clasificacion": {
+            "tematica": [
+                "Ciencia"
+            ],
+            "publico": [
+                "Estudiantes",
+                "Profesionales"
+            ]
+        }
+    },
+    {
+        "titulo": "The Catcher in the Rye",
+        "autor": "J.D. Salinger",
+        "genero": "Ficción",
+        "anyoPublicacion": 1951,
+        "estado": 3,
+        "clasificacion": {
+            "tematica": [
+                "Bildungsroman"
+            ],
+            "publico": [
+                "Jóvenes",
+                "Adultos"
+            ]
+        }
+    },
+    {
+        "titulo": "Pride and Prejudice",
+        "autor": "Jane Austen",
+        "genero": "Ficción",
+        "anyoPublicacion": 1813,
+        "estado": 4,
+        "clasificacion": {
+            "tematica": [
+                "Romance"
+            ],
+            "publico": [
+                "Adultos",
+                "Jóvenes"
+            ]
+        }
+    }
+]
